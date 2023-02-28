@@ -1,0 +1,36 @@
+*{background-color: bisque;}
+#full{
+    color: red}
+#Email{
+    color: green;}
+#password {
+    color: darkgrey;}
+#age{
+    color: saddlebrown;}
+#birth{
+    color: slateblue;}
+#country{
+    color: greenyellow;}
+#application{
+    color: rgb(14, 14, 238);}
+#sel{
+    color: darkviolet;}
+#area{
+    color: seagreen;}
+#gender{
+    color: darkcyan;}
+#income{
+    color: fuchsia;}
+#employment{
+    color: gold;}
+#satisfaction{
+    color: aqua;}
+#file{
+    color: brown;}
+.submit-button{
+    background-color: chocolate;
+    color: aliceblue;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+}

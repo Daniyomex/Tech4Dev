@@ -1,0 +1,32 @@
+*{
+    background-color: #e7d9cb;
+    margin: auto;
+}
+body{
+    align-items: center;
+}
+
+form {
+    max-width: 1500px;
+}
+
+#tech{padding-left: 40%;
+    padding-top: 10%;    
+}
+
+#nam{padding-left: 40%;
+    border-left: #fe0303;
+    border-style: solid;
+    border    
+}
+
+#email{padding-left: 40%;
+}
+
+#password{padding-left: 40%;
+}
+#submit-button{
+   color: aqua;
+    border-color: chartreuse;
+   border-radius: 20px;
+}
